@@ -1,5 +1,5 @@
 ### Opa, eu sou a Julia👋
-    • Atualmente estudo JavaScript e Python             
+    • 💻 Atualmente estudo JavaScript e Python             
 
 ![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjuiada&show_icons=true&theme=nightowl)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enjuiada&theme=nightowl)
