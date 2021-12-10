@@ -1,7 +1,7 @@
 ### Opa, eu sou a Julia👋
     • Atualmente estudo JavaScript e Python             
 
-![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjuiada&show_icons=true&theme=radical)
+![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjuiada&show_icons=true&theme=nightowl)
 
 <div>
          <a href="https://www.reddit.com/user/enJuiada/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
